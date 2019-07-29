@@ -1,0 +1,18 @@
+{
+    "name": "liuyupeng/random-nickname",
+    "description": "get a random nickname",
+    "authors": [
+        {
+            "name": "liuyupeng"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "liuyupeng\\random-nickname\\": "src/"
+        }
+    }
+}
