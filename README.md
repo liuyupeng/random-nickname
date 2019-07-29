@@ -16,6 +16,8 @@ $ composer require liuyupeng/random-nickname
 ```
 require __DIR__ . '/vendor/autoload.php';
 
+use liuyupeng\randomnickname\Nickname;
+
 $nkClass = new Nickname();
 $nickname = $nkClass->getNickname();
 ```
