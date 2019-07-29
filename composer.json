@@ -6,7 +6,6 @@
             "name": "liuyupeng"
         }
     ],
-    "license": "MIT",
     "require": {
         "php": ">=5.4"
     },
